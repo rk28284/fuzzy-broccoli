@@ -63,7 +63,6 @@ npm start
 <h2>🔗 Server deployed Link</h2>
 <p>🌐 <a href="https://urbaneye-client.onrender.com" target="_blank">Urban Eye (Server)</a></p>
 
-<hr>
 <h2>🔗 Client deployed Link</h2>
 <p>🌐 <a href="https://urbaneye.vercel.app/" target="_blank">Urban Eye (Client)</a></p>
 
