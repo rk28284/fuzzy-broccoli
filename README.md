@@ -13,7 +13,6 @@
   <li>🧭 Fully responsive UI with Tailwind CSS</li>
 </ul>
 
-<hr>
 
 <h2>📁 Project Structure</h2>
 <ul>
@@ -21,7 +20,7 @@
   <li><code>/server</code> – Node.js backend with Express and MongoDB</li>
 </ul>
 
-<hr>
+
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
@@ -30,7 +29,7 @@
   <li><strong>Database:</strong> MongoDB (hosted on Render)</li>
 </ul>
 
-<hr>
+
 
 <h2>⚙️ How to Run Locally</h2>
 
@@ -44,7 +43,7 @@ cd client
 npm install
 
 # Navigate to backend
-cd ../server
+cd ./urban_server
 npm install
 </code></pre>
 
@@ -55,11 +54,11 @@ cd server
 npm start
 
 # Start frontend
-cd ../client
+cd ./urban_client
 npm start
 </code></pre>
 
-<hr>
+
 
 <h2>🔗 Server deployed Link</h2>
 <p>🌐 <a href="https://urbaneye-client.onrender.com" target="_blank">Urban Eye (Server)</a></p>
@@ -70,10 +69,10 @@ npm start
 
 <h2>🙌 Contributing</h2>
 
-<hr>
+
 <p>Feel free to fork this project, open issues, or submit pull requests. Contributions are welcome!</p>
 
-<hr>
+
 
 <h2>📄 License</h2>
 <p>This project is licensed under the <strong>MIT License</strong>.</p>
