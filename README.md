@@ -2,7 +2,6 @@
 
 <p><strong>Urban Eye</strong> is a MERN stack-based web application that allows users to raise civic complaints with an optional image. Admins can view complaints in a dashboard with an intuitive UI. Built using React, TailwindCSS, Node.js, Express, and MongoDB.</p>
 
-<hr>
 
 <h2>🚀 Features</h2>
 <ul>
