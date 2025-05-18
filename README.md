@@ -61,12 +61,16 @@ npm start
 
 <hr>
 
-<h2>🔗 Live Demo</h2>
-<p>🌐 <a href="https://urbaneye-client.onrender.com" target="_blank">Urban Eye (Live App)</a></p>
+<h2>🔗 Server deployed Link</h2>
+<p>🌐 <a href="https://urbaneye-client.onrender.com" target="_blank">Urban Eye (Server)</a></p>
 
 <hr>
+<h2>🔗 Client deployed Link</h2>
+<p>🌐 <a href="https://urbaneye.vercel.app/" target="_blank">Urban Eye (Client)</a></p>
 
 <h2>🙌 Contributing</h2>
+
+<hr>
 <p>Feel free to fork this project, open issues, or submit pull requests. Contributions are welcome!</p>
 
 <hr>
