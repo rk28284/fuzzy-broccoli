@@ -66,16 +66,6 @@ npm start
 
 <hr>
 
-<h2>📸 Screenshots</h2>
-<ul>
-  <li>Complaint Form</li>
-  <img src="https://your-image-url.com/form.png" alt="Complaint Form" width="600"/>
-  <li>Admin Dashboard</li>
-  <img src="https://your-image-url.com/dashboard.png" alt="Dashboard" width="600"/>
-</ul>
-
-<hr>
-
 <h2>🙌 Contributing</h2>
 <p>Feel free to fork this project, open issues, or submit pull requests. Contributions are welcome!</p>
 
